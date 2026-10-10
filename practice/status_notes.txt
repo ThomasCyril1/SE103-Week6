@@ -1,0 +1,12 @@
+Student Name: Thomas Oforikumah
+
+What I check before committing:
+I check the working tree with git status to see which files have changed.
+I review the file contents to make sure the changes are correct.
+I inspect the staged changes with git diff --cached before committing.
+I confirm that I have staged only the files related to the task.
+
+What I am committing now and why:
+I am committing notes about my inspect-before-commit habit.
+This file records the checks I use to reduce mistakes and keep my Git history clear.
+
