@@ -1,0 +1,19 @@
+Student Name: Thomas Oforikumah
+
+Weak commit message 1: updates
+Improved commit message: add customer contact form validation
+Why the improved message is better:
+It explains what was added and identifies the specific feature changed. This helps other developers understand the commit without opening every file.
+
+Weak commit message 2: final final
+Improved commit message: correct spelling errors in README
+Why the improved message is better:
+It describes the actual change instead of using a vague label. It also makes the project history easier to search and review.
+
+Weak commit message 3: stuff
+Improved commit message: document Git status checks before committing
+Why the improved message is better:
+It states the purpose of the change clearly. A developer can understand what the commit contains from its message.
+
+My personal commit message rule:
+I will use short, specific messages that describe the main change in each commit. I will avoid vague words such as updates, stuff, and final final. Before committing, I will check that the message accurately describes the changes I staged.
