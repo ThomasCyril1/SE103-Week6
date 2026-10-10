@@ -1,0 +1,17 @@
+Student Name: Thomas Oforikumah
+GitHub Username: ThomasCyril1
+Branch Name: improve-readme
+
+What I changed:
+I added a section to my README explaining how I use Git carefully.
+I documented four habits that help me inspect, stage, and commit changes correctly.
+
+Why I used a branch and pull request:
+A separate branch lets me make changes without immediately changing the main branch.
+A pull request gives me an opportunity to review the changes before merging them into main.
+This process helps me catch mistakes and keep the main branch organized.
+
+What I reviewed before merging:
+I checked that the README contains the correct student name and GitHub username.
+I confirmed that the new section contains four clear Git habits.
+I reviewed the changes to make sure they matched the purpose of the task.
