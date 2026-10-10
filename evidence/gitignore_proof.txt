@@ -1,0 +1,20 @@
+Student Name: Thomas Oforikumah
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+The ignored files did not appear as ordinary untracked files in git status.
+The git check-ignore command identified the rules matching each test file.
+The *.log pattern ignored the application log file.
+The temp/ and secret.env patterns prevented the temporary note and example environment file from being tracked.
+
+Why committing secrets is dangerous:
+Committing secrets can expose passwords, API keys, and other private information.
+Someone who obtains a secret may use it to access accounts or services without permission.
+Removing a secret from the latest commit does not guarantee that it disappears from the repository history.
+Secrets should be kept outside version control, and any real exposed credentials should be revoked or replaced.
+
