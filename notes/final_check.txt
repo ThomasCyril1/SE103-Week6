@@ -1,0 +1,17 @@
+Student Name: Thomas Oforikumah
+GitHub Username: ThomasCyril1
+Repository Name: SE103-Week6
+Repository URL: https://github.com/ThomasCyril1/SE103-Week6
+
+My Git habits:
+I use git status to check my working tree before staging files.
+I review my changes before committing to catch mistakes.
+I stage only files related to the task I am working on.
+I write clear commit messages that explain the purpose of each change.
+I use branches and pull requests to review changes before merging them into main.
+
+How I will prevent mistakes:
+I will check the file names and contents before staging changes.
+I will review the staged changes and confirm the correct branch before committing and pushing.
+
+All required files are on main: Yes
